@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: John Steigerwald
+title: Software Engineer
+email: john.w.steigerwald@gmail.com
+website: www.linkedin.com/in/jwsteigerwald/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  jstiggy
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jekyll
+linkedin_username: jwsteigerwald
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: jekyll
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,8 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  I'm John Steigerwald, a Software Engineer with 6+ years of experience designing and implementing AI-driven simulation systems, real-time optimization engines, and agent-based models. Adept in <mark>Rust</mark>, <mark>Java</mark>, <mark>C#</mark> and <mark>Python</mark> with a strong record of mentoring junior engineers and delivering high-performance solutions. Proven contributor to R&D initiatives resulting in multimillion-dollar contracts and published academic research. Skilled in bridging the gap between complex technical challenges and practical, real-world outcomes.
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
