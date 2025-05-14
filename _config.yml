@@ -69,7 +69,7 @@ content:
 
 
       - layout: top-middle
-        title: Super awesome project
+        title: Dungeon Crawler Systems
         link: github.com/JStiggy/Dungeon-Crawler-Systems
         # link_text: Project Website
         additional_links:
@@ -94,7 +94,7 @@ content:
         quote: >
           Rensselaer Polytechnic Institute (RPI) is one of the nation’s oldest and most respected technological research universities, with a strong reputation in engineering, science, and innovation. Its rigorous academics, influential alumni, and deep ties to industry make it a leader in STEM education and research.
         description: | # this will include new lines to allow paragraphs
-          At RPI I 
+          At RPI I studied both Computer Science and Games and Simulation Arts and Sciences. I spent a lot of time learning how to make games as well as improving my skills as a software engineer. I was a member of the Rensselaer AI League and the Game Developers Club. 
 
   - title: A Little More About Me
     layout: text
