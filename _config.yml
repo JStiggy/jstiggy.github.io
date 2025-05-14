@@ -64,7 +64,7 @@ content:
         quote: >
           Adaptive mission support and training.
         description: | # this will include new lines to allow paragraphs
-          I worked as part of the <mark>C#</mark> core library as part of the team at Charles River Analytics. Helped to create the systems allowing for simulation-based training, including performance tracking, real-time assessment, feedback, and after action reviews. KWYN is used in various projects as well as has been licensened commercially.
+          I worked as part of the <mark>C#</mark> core library as part of the team at Charles River Analytics. I helped to create the systems allowing for simulation-based training, including performance tracking, real-time assessment, feedback, and after action reviews. KWYN is used in various projects as well as has been licensened commercially.
 
 
 
@@ -94,7 +94,7 @@ content:
         quote: >
           Rensselaer Polytechnic Institute (RPI) is one of the nation’s oldest and most respected technological research universities, with a strong reputation in engineering, science, and innovation. Its rigorous academics, influential alumni, and deep ties to industry make it a leader in STEM education and research.
         description: | # this will include new lines to allow paragraphs
-          At RPI I studied both Computer Science and Games and Simulation Arts and Sciences. I spent a lot of time learning how to make games as well as improving my skills as a software engineer. I was a member of the Rensselaer AI League and the Game Developers Club. 
+          At RPI I studied both Computer Science and Games and Simulation Arts and Sciences. I spent a majority of my time learning how to develop games as well as improving my skills as a software engineer. I was a member of the Rensselaer AI League and the Game Developers Club. 
 
   - title: A Little More About Me
     layout: text
